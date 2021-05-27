@@ -1,0 +1,35 @@
+header {
+  position: top-rigt;
+  top: 0px;
+  width: 100%;
+  heiht: 19px;
+  padding: 25px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-item: center;
+  background-color:;
+  opacity: 0.9;
+
+
+ 
+}
+
+
+@media (max-width: 500px)
+  body {
+    flex-wrap: wrap;}
+  
+
+#header-img
+{
+ height: 50px;
+ width: 45px;
+ border-color: purple;
+ border-width: 10px;
+ border-style: solid;
+ border-radius: 50%;
+ opacity: 0.6;
+   align: top-left;
+}
+  
+
